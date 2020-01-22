@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DiveIntoHacking/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
