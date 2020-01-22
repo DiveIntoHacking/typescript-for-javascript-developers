@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DiveIntoHacking/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/DiveIntoHacking/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/DiveIntoHacking/typescript-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
