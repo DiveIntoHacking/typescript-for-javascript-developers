@@ -5,13 +5,20 @@ export {};
 let url: string =
   'https://udemy-utils.herokuapp.com/api/v1/articles?token=token123';
 
-axios.get(url).then(function(response) {
-  interface Article {
+interface Article {
+  id: number;
+  title: string;
+  description: string;
+}
+
+axios.get<Article[]>(url).then(function(response) {
+  interface MyArticle {
     id: number;
-    title: string;
+    title: number;
     description: string;
   }
-  let data: Article[];
+  let data: MyArticle[];
+  response.data;
   data = response.data;
   console.log(data);
 });
