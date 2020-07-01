@@ -1,0 +1,12 @@
+version: "3"
+services:
+  app:
+    build: docker/app
+    ports:
+      - "3000:3000"
+    tty: true
+    user: node
+    volumes:
+      - .:/app
+      - .bash_history:/home/node/.bash_history
+      - .aws:/home/node/.aws
