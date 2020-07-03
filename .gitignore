@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# added below by diveintohacking
+/.bash_history
+/.aws/
