@@ -1,7 +1,7 @@
 {
   "name": "typescript-for-javascript-developers",
   "version": "1.0.0",
-  "description": "",
+  "description": "typescirpt 学習用　App",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn",
