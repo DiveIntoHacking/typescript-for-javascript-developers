@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var dayOfTheWeek = '日';
+dayOfTheWeek = '月';
+// dayOfTheWeek = '31';
+var month = 1;
+month = 12;
+// month = 13;
+var TRUE = true;
+// TRUE = false;
