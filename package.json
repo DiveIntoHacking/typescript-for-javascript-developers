@@ -20,7 +20,7 @@
   "homepage": "https://github.com/DiveIntoHacking/typescript-for-javascript-developers#readme",
   "devDependencies": {
     "ts-node": "^10.1.0",
-    "ts-node-dev": "^1.0.0-pre.44",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^4.3.5"
   },
   "dependencies": {
