@@ -8,3 +8,5 @@ Udemyで公開中の「[ハンズオンで学ぶ TypeScript - JavaScript エン�
 ## コンパイルを実行するコマンド例
 
     $ npm run dev src/default-parameters.ts
+
+[はむさんのオンラインスクール](https://diveintohacking.com/)
