@@ -4,8 +4,6 @@
 
     $ npm run dev src/default-parameters.ts
 
-<div align='right'>
 
-[はむさんのオンラインスクール](https://diveintohacking.com/)
-
-</div>
+TypeScriptコードをJSコンパイルの確認をしたい場合はこちら \
+https://bit.ly/3rifFxl
