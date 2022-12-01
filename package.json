@@ -22,6 +22,6 @@
     "ts-node-dev": "^2.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^1.2.0"
   }
 }
